@@ -2,7 +2,6 @@ import json
 import time
 import os
 import tweepy
-import time
 
 global time, up, down
 # local time settings
